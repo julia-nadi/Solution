@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Getstarted": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
